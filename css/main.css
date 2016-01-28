@@ -1,0 +1,21 @@
+div {
+	height: 150px;
+	width: 350px;
+	margin: 0px;
+}
+.rectangulo {
+	height: 450px;
+	width: 1200px;
+	margin-top: 0px;
+	padding: 0px;
+	border: 2px solid gray;
+}
+.rojo{
+	background-color: red;
+}
+.amarillo {
+	background-color: yellow;
+}
+.azul {
+	background-color: blue;
+}
